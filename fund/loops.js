@@ -11,7 +11,12 @@ function fill_array_and_print_it()
 
     console.log("\nArray Elements:");
     for (let i = 0; i < n; i++) 
+    {
+        if (arr[i] === 42)
+            continue ;
         console.log(arr[i]);
+    }
+
     
 }
 
