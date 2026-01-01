@@ -1,2 +1,19 @@
-let age = prompt("How old are you?");
-alert(`Your age is: ${age} years old!`);
+
+function getFullName()
+{
+	console.log(this);
+	console.log(this.fullName);
+}
+
+var fullName = "ajelloul";
+
+getFullName();
+
+var student1 = {
+	fullName: "massou",
+	getFull_Name : getFullName,
+	
+
+};
+
+console.log(student1);
