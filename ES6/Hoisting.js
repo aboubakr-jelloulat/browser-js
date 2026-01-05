@@ -2,4 +2,4 @@
 console.log(name);
 var name = "ajelloul";
 
-// Hoisting 
+// Hoisting  26:40
