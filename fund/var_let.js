@@ -1,4 +1,5 @@
-https://www.javascripttutorial.net/javascript-let/
+// https://www.javascripttutorial.net/javascript-let/
+// https://www.javascripttutorial.net/difference-between-var-and-let/
 
 if (true)
 {
