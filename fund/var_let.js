@@ -44,5 +44,3 @@ function example()
 	// console.log(z); //  error
 }
 example();
-
-
