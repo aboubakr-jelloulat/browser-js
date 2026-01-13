@@ -1,3 +1,5 @@
+https://github.com/arbaouimehdi/javascript-es6/blob/master/09-destructuring-arrays.js
+
 const studentInfos = 
 [
 	1337,
