@@ -53,3 +53,16 @@ console.log("\nNested Array : \n");
 
 
 
+const Earth = [
+	"Africa", 
+	"Asia", 
+	["Norway", "Finland", "France"]
+];
+
+const [
+	Africa, 
+	Asia, 
+	[Norge, finland, france]
+] = Earth;
+
+console.log(Africa, Asia, Norge, finland, france);
